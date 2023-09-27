@@ -7,11 +7,4 @@
 💞️ I'm looking to collaborate with other developers and industry professionals to enhance my skills and work on challenging projects that contribute to the growth and development of the tech industry in our country.
 
 Thank you for considering my profile.
-
-🌐 Socials:
-LinkedIn Stack Overflow
-
-💻 Tech Stack:
-Vue.js C++ C# JavaScript HTML5 CSS3 Rust PHP TypeScript Cloudflare Netlify DigitalOcean Firebase Bootstrap Chart.js Code-Igniter jQuery Laravel NuxtJS Socket.io MySQL MicrosoftSQLServer MongoDB Postgres Adobe After Effects Adobe Illustrator Adobe Photoshop Adobe Premiere Pro Canva
-
 Stackoverflow : https://stackoverflow.com/users/10623148/muhammad-umair
