@@ -20,5 +20,5 @@ Thank you for considering my profile.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-brightgreen)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Expert-brightgreen)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-Proficient-brightgreen)](https://alpinejs.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-Proficient-yellow)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-Learning-yellow)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow)](https://vuejs.org/)
