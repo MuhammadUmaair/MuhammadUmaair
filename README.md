@@ -1,8 +1,16 @@
 👋 Hi, I'm @Muhammad Umaair.
 
-👀 I'm a Laravel developer with expertise in front-end development. I have a strong foundation in **HTML, CSS, and JavaScript** and I'm proficient in using Bootstrap and multiple frameworks like **Vue.js, Alpine.js, and Next.js** to create responsive and interactive web applications.
+👀 Hello there! I'm Muhammad Umair, a passionate Laravel developer with a keen eye for designing beautiful and functional websites. I'm proficient in HTML, CSS, JavaScript, and various frameworks such as Vue.js, Alpine.js and Next.js, and always eager to learn and expand my skillset.
 
-🌱 Currently, I'm expanding my skill set by learning Vue.js to stay up-to-date with the latest technology updates and trends in web development.
+As a developer, I prioritize writing clean and maintainable code that enhances user experience. I relish working on challenging projects that demand creativity and problem-solving skills.
+
+When I'm not coding, I love exploring new technologies and working on personal projects to fuel my creativity. I strongly believe in the power of teamwork and transparent communication to build remarkable products that exceed expectations.
+
+I'm excited to share my expertise and collaborate with fellow developers on Github.**Let's work together to create amazing things!**
+
+    **Every great developer you know got there by solving problems, they were unqualified to solve until they actually did it.**__
+
+🌱 Currently, I'm expanding my skill set by learning Vue.js and Next.js to stay up-to-date with the latest technology updates and trends in web development.
 
 💞️ I'm looking to collaborate with other developers and industry professionals to enhance my skills and work on challenging projects that contribute to the growth and development of the tech industry in our country.
 
