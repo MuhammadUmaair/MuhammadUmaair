@@ -18,7 +18,7 @@ Thank you for considering my profile.
 
 🔗 You can find me on Stack Overflow: [![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/10623148/muhammad-umair)
 
-🌐 Connect with me on LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammadumairuk/)
+🌐 Connect with me on LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-umair-fullstack/)
 
 🚀 Check out my projects on GitHub: [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/MuhammadUmaair)
 
@@ -30,18 +30,4 @@ Thank you for considering my profile.
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-Proficient-brightgreen)](https://alpinejs.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-Learning-yellow)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow)](https://vuejs.org/)
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="muhammad-umair-fullstack" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-umair-fullstack?trk=profile-badge">Muhammad Umair</a></div>
-
-<p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
 
