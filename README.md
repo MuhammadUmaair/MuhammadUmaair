@@ -31,3 +31,7 @@ Thank you for considering my profile.
 [![Next.js](https://img.shields.io/badge/Next.js-Learning-yellow)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow)](https://vuejs.org/)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&locale=en" alt="MuhammadUmaair" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="MuhammadUmaair" /></p>
+
