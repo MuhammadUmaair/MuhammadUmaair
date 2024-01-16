@@ -22,6 +22,9 @@ Thank you for considering my profile.
 
 🚀 Check out my projects on GitHub: [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/MuhammadUmaair)
 
+👁️ Profile View Counter on GitHub: [![Profile View Counter](https://img.shields.io/badge/GitHub-Profile-green)](https://komarev.com/ghpvc/?username=MuhammadUmaair&abbreviated=true)
+
+
 🛠️ Skills:
 [![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -30,7 +33,6 @@ Thank you for considering my profile.
 [![Alpine.js](https://img.shields.io/badge/Alpine.js-Proficient-brightgreen)](https://alpinejs.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-Learning-yellow)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow)](https://vuejs.org/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadUmaair)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="MuhammadUmaair" /></p>
