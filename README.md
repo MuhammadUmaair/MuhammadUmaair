@@ -22,7 +22,9 @@ Thank you for considering my profile.
 
 🚀 Check out my projects on GitHub: [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/MuhammadUmaair)
 
-👁️ Profile View Counter on GitHub: [![Profile View Counter](https://img.shields.io/badge/GitHub-Profile-green)](https://komarev.com/ghpvc/?username=MuhammadUmaair&abbreviated=true)
+👁️ Profile View Counter on GitHub: [![Profile View Counter]](https://komarev.com/ghpvc/?username=MuhammadUmaair&base=1000&abbreviated=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 
 
 🛠️ Skills:
