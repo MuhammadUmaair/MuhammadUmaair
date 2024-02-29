@@ -35,11 +35,13 @@ Thank you for considering my profile.
 [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow)](https://vuejs.org/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="MuhammadUmaair" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="MuhammadUmaair" /></p>
-
 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmaair&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmaair&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
+</p><br/>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" /></p><br/>
+<p>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
+</p>
