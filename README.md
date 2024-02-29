@@ -35,7 +35,7 @@ Thank you for considering my profile.
 [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow)](https://vuejs.org/)
 
 
-[![📊GitHub Stats](https://img.shields.io/badge/Github-Stats-black)](https://github.com/muhammad-umaair/github-readme-stats)
+[![📊GitHub Stats](https://img.shields.io/badge/📊Github-Stats-black)](https://github.com/muhammad-umaair/github-readme-stats)
 
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
