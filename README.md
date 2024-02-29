@@ -43,5 +43,5 @@ Thank you for considering my profile.
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" /></p><br/>
 <p>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
 </p>
