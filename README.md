@@ -18,11 +18,12 @@ Thank you for considering my profile.
 
 🔗 You can find me on Stack Overflow: [![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/10623148/muhammad-umair)
 
-🌐 Connect with me on LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-umaair/)
+🌐 Connect with me on LinkedIn: [![Muhammad Umair LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://pk.linkedin.com/in/muhammad-umaair)
 
 ### Connect with me:
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="muhammad-umaair" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-umaair?trk=profile-badge">Muhammad Umair</a></div>
+
+
 
 
 🚀 Check out my projects on GitHub: [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/MuhammadUmaair)
