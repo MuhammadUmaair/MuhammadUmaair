@@ -37,7 +37,7 @@ I'm looking to collaborate with other developers and industry professionals to e
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmaair&layout=compact&theme=dark&hide_border=true" alt="MuhammadUmaair" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=MuhammadUmaair&layout=compact&theme=dark&hide_border=true" alt="MuhammadUmaair" />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
 </p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadUmaair&base=1000&abbreviated=true)
