@@ -30,7 +30,14 @@ I'm looking to collaborate with other developers and industry professionals to e
 - [![Vue.js](https://img.shields.io/badge/Vue.js-Learning-yellow?style=flat-square&logo=vue.js)](https://vuejs.org/)
 
 ## 📊 GitHub Stats
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmaair&layout=compact&theme=dark&hide_border=true)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmaair&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=en&layout=compact" alt="MuhammadUmaair" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmaair&layout=compact&theme=dark&hide_border=true" alt="MuhammadUmaair" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=MuhammadUmaair&layout=compact&theme=dark&hide_border=true" alt="MuhammadUmaair" />
+</p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadUmaair&base=1000&abbreviated=true)
