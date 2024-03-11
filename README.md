@@ -20,6 +20,11 @@ Thank you for considering my profile.
 
 🌐 Connect with me on LinkedIn: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/muhammad-umaair/)
 
+### Connect with me:
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="muhammad-umaair" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-umaair?trk=profile-badge">Muhammad Umair</a></div>
+
+
 🚀 Check out my projects on GitHub: [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/MuhammadUmaair)
 
 👁️ Profile View Counter on GitHub: ![Profile View Counter](https://komarev.com/ghpvc/?username=MuhammadUmaair&base=1000&abbreviated=true)
