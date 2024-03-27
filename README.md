@@ -18,6 +18,7 @@ I'm looking to collaborate with other developers and industry professionals to e
 ## 🔗 Connect with Me
 - [![Stack Overflow Profile](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/10623148/muhammad-umair)
 - [![Muhammad Umair LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://pk.linkedin.com/in/muhammad-umaair)
+- [![Muhammad Umair LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://pk.linkedin.com/in/muhammad-umaair?trk=profile-badge)
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green?style=flat-square&logo=github)](https://github.com/MuhammadUmaair)
 
 ## 🛠️ Skills
